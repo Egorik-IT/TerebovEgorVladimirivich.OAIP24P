@@ -54,5 +54,5 @@ def main():
             print("Неверный ввод, попробуйте снова.")
 
 
-# if __name__ == "__main__":
-main()
+if __name__ == "__main__":
+    main()
